@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    font-family:'Montserrat', sans-serif;
+    background-color: #f7dcd8;
+}
+
+.judul {
+    color: #880d1e;
+    line-height: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+th {
+    color: #182339;
+    background-color: #FF9494;
+    font-size: 24px;
+    border-radius: 20px;
+    word-spacing: 100px;
+    line-height: 40px;
+}
+
+table {
+    background-color: #ECFCF6;
+    color: #880d1e;
+    border: #FF9494;
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+}
+
+a {
+    color: none;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 100px;
+    border-color: red;
+    width: 180px;
+}
